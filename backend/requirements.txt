@@ -1,0 +1,6 @@
+Flask
+PyTorch
+opencv-python
+Pillow
+scikit-image
+numpy
